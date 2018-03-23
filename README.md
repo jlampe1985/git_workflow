@@ -4,3 +4,6 @@ Step 1.
 Make some changes to your file. Then to show that git hasn't staged your changes yet type the command git status
 
 Once you are satisfied with the changes you made add file to staging by typing in the command git add filename
+
+Step 2.
+In order to document the changes you have made  you must commit your changes.  The command you use is git commit -m "The description of your changes made"
