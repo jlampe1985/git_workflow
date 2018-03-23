@@ -11,4 +11,11 @@ In order to document the changes you have made  you must commit your changes.  T
 Step 3.
 After you commit your changes you need to push it to your repo. The command you use is git push origin master
 
-This will now update your repository on github or where ever you have it stored. 
+This will now update your repository on github or where ever you have it stored.
+
+Check your status constantly to get an idea if git has noticed changes to your file.
+
+modified:   filename output in red means that git noticed a change but the file isn't staged.
+type git add filename to the stage the file.
+
+Text will now output modified:   filename but the text will be in green. 
